@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/.vs/debugging_assignment/v17
+/x64/Debug
+/debugging_assignment/x64/Debug/debuggin.ef036606.tlog
+/debugging_assignment/x64/Debug
+*.vcxproj
+*.filters
+*.user
+*.sln
